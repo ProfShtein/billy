@@ -6,3 +6,4 @@ CKO_10:00
 Записать ФИО в файл readme и сделать commit
 # P@ssw0rd
 Всем привет!
+Natarov Michail
