@@ -7,3 +7,5 @@ CKO_10:00
 # P@ssw0rd
 Всем привет!
 Natarov Michail
+
+Степан Сидоров
